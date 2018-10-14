@@ -1,5 +1,6 @@
 # C_Card_System
 ### 用C语言实现一卡通消费记录管理系统
+##### 实现时间2018/2，大一寒假
 ![image](https://github.com/GDUT-Rp/C_Card_System/raw/master/picture/C实现一卡通费记录管理系统首页.png)
 ![image](https://github.com/GDUT-Rp/C_Card_System/raw/master/picture/Snipaste_2018-02-10_23-17-12.png)
 ![image](https://github.com/GDUT-Rp/C_Card_System/raw/master/picture/Snipaste_2018-02-10_23-17-45.png)
